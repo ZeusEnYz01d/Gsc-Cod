@@ -1,0 +1,9 @@
+Changelogs Version 4.1:
+
+- Remove Death Barrier Added
+- Fast Zombies Added
+- Slow Zombies Added
+- Open All Doors Fixed 
+- Kill All Zombies Fixed 
+- Aimbot Fixed 
+- Skull Protector Fixed 

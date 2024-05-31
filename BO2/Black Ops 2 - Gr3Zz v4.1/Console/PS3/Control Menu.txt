@@ -1,0 +1,24 @@
+Monitoring Control ( Xbox / PC ):
+
+LB - Opening the menu
+LT & RT - Navigation
+X - Activation
+B - Exit submenu
+RS - Close menu
+
+Monitoring Control ( PS3 ):
+
+L2- Opening the menu
+L1& R1- Navigation
+Square- Activation
+Round- Exit submenu
+R3- Close menu
+
+Verifications:
+
+Host
+Co-Host
+Admin
+VIP
+Verified
+Unverified
